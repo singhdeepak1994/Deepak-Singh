@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+👨‍💻 **Deepak Singh**
+- **Role:** IT Infrastructure - Sr. System Administrator
+- **Location:** Didwana, India
+- **Email:** singhdeepak.ds1994@gmail.com
+- **Phone:** +918107160143
 
-You can use the [editor on GitHub](https://github.com/singhdeepak1994/DeepakSingh/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**About Me:**
+Experienced IT professional specializing in system administration with a focus on Microsoft cloud solutions, Azure, and Office 365 platforms. Skilled in configuring and managing Windows Server environments, Active Directory, DNS, DHCP, and security protocols. Dedicated to delivering timely solutions and improving processes to optimize organizational efficiency.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Professional Experience:**
+- **Dynatech System Pvt Ltd, Ahmedabad (Feb 2022 - Present)**
+  - Analyzing and troubleshooting Microsoft cloud solutions on Azure and Office 365 platforms.
+  - Designing, configuring, and implementing Azure services tailored to organizational needs.
+  - Maintaining and monitoring Active Directory, file servers, antivirus servers, and backup servers.
+  - Implementing security policies compliant with ISO standards.
 
-### Markdown
+- **Krazy Mantra HR Solution, Ahmedabad (Mar 2021 - Jan 2022)**
+  - Configuring and managing Cyberoam and Sophos Firewalls.
+  - Proactively managing server, network, and firewall systems.
+  - Installing Windows updates and patches using a WSUS server.
+  - Administering user accounts on Active Directory and Office 365.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **Riddhi Siddhi Corporation Pvt. Ltd., Ahmedabad (Jul 2019 - Sep 2020)**
+  - Installing and configuring Linux and server OS.
+  - Managing applications and databases.
+  - Troubleshooting application issues and running cron jobs.
 
-```markdown
-Syntax highlighted code block
+- **Globtier InfoTech Pvt. Ltd, Jaisalmer (May 2017 - Jul 2019)**
+  - Supporting infrastructure and communication hardware for 25 sites of SUZLON Energy Ltd.
+  - Addressing user tickets related to hardware, software, and networking.
+  - Training end-users on computer hardware and software usage.
 
-# Header 1
-## Header 2
-### Header 3
+**Education:**
+- Diploma in CCHNP, GT-College, Sikar (Apr 2013 - Sep 2023)
+- Bachelor of Computer Applications (BCA), [University Name] (Sep 2023 - Sep 2023)
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/singhdeepak1994/DeepakSingh/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Feel free to customize it further to suit your GitHub profile!
