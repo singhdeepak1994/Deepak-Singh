@@ -36,4 +36,9 @@ Experienced IT professional specializing in system administration with a focus o
 
 ---
 
-Feel free to customize it further to suit your GitHub profile!
+https://learn.microsoft.com/api/achievements/share/en-us/Deepaksingh-5996/9NJL3ZNU?sharingId=C2DB1CA236AFC8BC
+
+[Achievements - deepaksingh-5996 _ Microsoft Learn.pdf](https://github.com/singhdeepak1994/DeepakSingh/files/14966971/Achievements.-.deepaksingh-5996._.Microsoft.Learn.pdf)
+
+
+
