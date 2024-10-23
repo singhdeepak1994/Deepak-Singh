@@ -31,8 +31,8 @@ Experienced IT professional specializing in system administration with a focus o
   - Training end-users on computer hardware and software usage.
 
 **Education:**
-- Diploma in CCHNP, GT-College, Sikar (Apr 2013 - Sep 2023)
-- Bachelor of Computer Applications (BCA), [University Name] (Sep 2023 - Sep 2023)
+- Diploma in CCHNP, GT-College, Sikar (Apr 2013 - OCT 2015)
+- Bachelor of Computer Applications (BCA), Jaipur National University, Jaipur  (april 2020 - Sep 2022)
 
 ---
 
