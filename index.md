@@ -40,5 +40,7 @@ https://learn.microsoft.com/api/achievements/share/en-us/Deepaksingh-5996/9NJL3Z
 
 [Achievements - deepaksingh-5996 _ Microsoft Learn.pdf](https://github.com/singhdeepak1994/DeepakSingh/files/14966971/Achievements.-.deepaksingh-5996._.Microsoft.Learn.pdf)
 
+**Microsoft Certified: Azure Administrator Associate**
+https://learn.microsoft.com/api/credentials/share/en-in/DeepakSingh-7277/2D1741444DF049E6?sharingId=3C78743897234CC4
 
 
